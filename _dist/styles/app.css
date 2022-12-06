@@ -293,7 +293,8 @@ p.prose {
   font-weight: bold;
   font-size: 18px;
 }
-.table td, .table th {
+.table td,
+.table th {
   border: 1px solid #ddd;
   padding: 8px;
 }
